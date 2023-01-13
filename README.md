@@ -1,4 +1,4 @@
-# Global Game Jam 2023
+# Mutliplayer VR Game Jam Tempalte 2023
 
 Join the discord for the latest  <br />
 https://discord.gg/bd8KrVhd8u
