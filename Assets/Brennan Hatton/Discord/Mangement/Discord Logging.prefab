@@ -47,7 +47,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40c51c07a37acfd48b9d95bc52ac419d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  webhook_link: https://discord.com/api/webhooks/1032136544213024778/tx4KgBHPS0b_v4OsQAAzDZXmVVba2APe8aW33F96nONzcz-nkQCpJqWXZX5L6WqApjqd
+  webhook_link: 
   startMessage: 0
 --- !u!114 &6692419211147223988
 MonoBehaviour:
@@ -80,6 +80,8 @@ MonoBehaviour:
     name: Kinspace Quest 2 - Probably Justin
     contact: 
     debug: 0
+  USER_STR: Learner
+  JOINED_MESSAGE: joined the metaverse.
 --- !u!114 &462064104917090973
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -92,7 +94,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40c51c07a37acfd48b9d95bc52ac419d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  webhook_link: https://discord.com/api/webhooks/1032148691940802590/z4NJiLPrIPX8PVSzyvSGmizCXNbdJcSeDaUssYtU5kWwHik2ihBtKlyxbbWtPuDHOse_
+  webhook_link: 
   startMessage: 0
 --- !u!114 &7544887892591183992
 MonoBehaviour:
@@ -107,15 +109,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idManager: {fileID: 6692419211147223988}
-  json: "{\n    \"ids\": [\n        {\n            \"id\": \"152b826877b429e20e8caee01d86096f31b2e6ed\",\n           
-    \"name\": \"Equal Reality 1080MSI (Brennan)\",\n            \"contact\": \"brennan@equalreality.com\",\n           
-    \"debug\": true\n        },\n        {\n            \"id\": \"d760fc0b946c32c8293f24c96f5d43005c8abbc8\",\n           
-    \"name\": \"Equal Reality 1070MSI (Brennan)\",\n            \"contact\": \"brennan@equalreality.com\",\n           
-    \"debug\": true\n        },\n        {\n            \"id\": \"136f51b139c7f2bd3638c548298dc239\",\n           
-    \"name\": \"Brennans Quest\",\n            \"contact\": \"brennan@equalreality.com\",\n           
-    \"debug\": true\n        },\n        {\n            \"id\": \"70fddf09195306b145629bd397134c0a\",\n           
-    \"name\": \"Kinspace Quest 2 - Probably Justin\",\n            \"contact\": \"\",\n           
-    \"debug\": false\n        }\n    ]\n}"
+  json: 
   jsonData:
     ids: []
   updateJson: 0
