@@ -30,5 +30,5 @@ Photon Voice 2 (free) https://assetstore.unity.com/packages/tools/audio/photon-v
 BrennanHatton Ultitlies <br />
 BrennanHatton Discord Webhook <br />
 BrennanHatton PUN Assets <br />
-[Parale](https://github.com/VeriorPies/ParrelSync) 1.5.1
+[Parallel Sync 1.5.1](https://github.com/VeriorPies/ParrelSync) 
 
