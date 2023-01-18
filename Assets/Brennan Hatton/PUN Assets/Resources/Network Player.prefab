@@ -264,7 +264,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 49610de98d0f3fd43a58905da69468d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  target: {fileID: 0}
+  target: {fileID: 8267771959025334537}
   position: 1
   rotation: 0
   rx: 1
