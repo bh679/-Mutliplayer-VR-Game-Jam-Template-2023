@@ -10,12 +10,15 @@ namespace BrennanHatton.Discord
 {
 	public class DiscordWebhook : MonoBehaviour
 	{
-		public string webhook_link = "https://discord.com/api/webhooks/1032136544213024778/tx4KgBHPS0b_v4OsQAAzDZXmVVba2APe8aW33F96nONzcz-nkQCpJqWXZX5L6WqApjqd";
+		public TextAsset webhook;
+		string webhook_link;
 		
 		public bool startMessage = true;
 	
 	    void Start()
 		{
+			webhook_link = webhook.text;
+			
 			if(startMessage)
 		    	SendMessage("App Started");
 	    }
