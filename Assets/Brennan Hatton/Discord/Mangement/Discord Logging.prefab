@@ -47,7 +47,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40c51c07a37acfd48b9d95bc52ac419d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  webhook_link: 
+  webhook: {fileID: 4900000, guid: bd88c569d608b8f41962c585955418ac, type: 3}
   startMessage: 0
 --- !u!114 &6692419211147223988
 MonoBehaviour:
@@ -80,7 +80,7 @@ MonoBehaviour:
     name: Kinspace Quest 2 - Probably Justin
     contact: 
     debug: 0
-  USER_STR: Learner
+  USER_STR: Player
   JOINED_MESSAGE: joined the metaverse.
 --- !u!114 &462064104917090973
 MonoBehaviour:
@@ -94,7 +94,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40c51c07a37acfd48b9d95bc52ac419d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  webhook_link: 
+  webhook: {fileID: 4900000, guid: 18708cbf4f253bb40920571bd2fdfc86, type: 3}
   startMessage: 0
 --- !u!114 &7544887892591183992
 MonoBehaviour:
