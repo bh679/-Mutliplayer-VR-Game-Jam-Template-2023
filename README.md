@@ -12,6 +12,6 @@ Install Guide for VRIF: https://wiki.beardedninjagames.com/en/Overview/Installat
 Pre-Installed
 PUN 2 (free) - https://assetstore.unity.com/packages/tools/network/pun-2-free-119922 <br />
 Photon Voice 2 (free) https://assetstore.unity.com/packages/tools/audio/photon-voice-2-130518 <br />
-BrennanHatton Ultitlies (yet to install)
-BrennanHatton Discord Webhook (yet to install)
-BrennanHatton PUN Assets (yet to install)
+BrennanHatton Ultitlies <br />
+BrennanHatton Discord Webhook <br />
+BrennanHatton PUN Assets <br />
