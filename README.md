@@ -23,7 +23,7 @@ Script Update Consent
 
 ## Pre-Installed <br />
 [PUN 2](https://assetstore.unity.com/packages/tools/network/pun-2-free-119922) (free)<br />
-[Photon Voice 2](https://assetstore.unity.com/packages/tools/audio/photon-voice-2-130518) (free) - yet to install<br />
+[Photon Voice 2 - 2.50](https://assetstore.unity.com/packages/tools/audio/photon-voice-2-130518) (free)<br />
 BrennanHatton Ultitlies <br />
 BrennanHatton Discord Webhook <br />
 BrennanHatton PUN Assets <br />
