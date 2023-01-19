@@ -21,7 +21,6 @@ Windows -> Package Manager -> Packages: My Assets -> Search: `VRIF` -> Download/
 
 Script Update Consent
  - Yes, for these and other files that might be found later. 
- - Although yes - for these files might be safer.
 
 2 - Get Private Keys
 Make sure you have the Photon Ap ID in the
