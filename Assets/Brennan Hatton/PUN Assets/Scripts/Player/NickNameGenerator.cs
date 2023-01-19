@@ -12,6 +12,16 @@ public class NickNameGenerator : MonoBehaviour
 	
 	public string[] noun, adjective;
 	public UnityEvent onSetFromInput;
+	public bool setOnEnable = true;
+	
+	
+	public void OnEnable()
+	{
+		if(setOnEnable)
+		{
+			SetRandomNickName();
+		}
+	}
 	
 	public void SetInputFieldToNickName(InputField input)
 	{

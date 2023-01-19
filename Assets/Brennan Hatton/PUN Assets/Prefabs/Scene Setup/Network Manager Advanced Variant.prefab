@@ -1,0 +1,235 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7429473747049124782
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5169433033248507153}
+  - component: {fileID: 4972275628150620219}
+  - component: {fileID: 5100779869498987393}
+  m_Layer: 0
+  m_Name: PlayerNickName
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5169433033248507153
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7429473747049124782}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.1310622, y: -2.2279477, z: 1.3840833}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 731175774406722291}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4972275628150620219
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7429473747049124782}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc2fc98d48f9fa74aa43b0da6fb855c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  noun:
+  - Elephant
+  - Giraffe
+  - Chicken
+  - Pizza
+  - Mouse
+  - Fruit
+  - Apple
+  - Pear
+  - Pineapple
+  - Flower
+  - Nugget
+  - Leaf
+  - Tree
+  - Grass
+  - Cat
+  - Mitten
+  - Art
+  - Painting
+  - Music
+  - Song
+  - Mug
+  - Paw
+  - Puppy
+  - Wolf
+  - Rainbow
+  - Salmon
+  - Tuna
+  - Bird
+  - Cookie
+  - Tomato
+  - Olive
+  - Paint
+  - Pillow
+  - Sun
+  - Cloud
+  - Star
+  - Planet
+  - Ray
+  - Wave
+  - Button
+  - Sound
+  - Light
+  - Splash
+  - Dog
+  - Salad
+  adjective:
+  - Friendly
+  - Happy
+  - Lovely
+  - Cheeky
+  - Smiley
+  - Blue
+  - Green
+  - Pink
+  - Magenta
+  - Orange
+  - Indigo
+  - Violet
+  - Rainbow
+  - Purple
+  - Teal
+  - Aqua
+  - Cyan
+  - Turquoise
+  - Aqua
+  - Maroon
+  - Salmon
+  - Fluffy
+  - Quick
+  - Loud
+  - Soft
+  - Suprised
+  - Unsure
+  - Thrilled
+  - Excited
+  - Big
+  - Little
+  - Wondering
+  - Wunderfull
+  - Lively
+  - Gold
+  - Lavender
+  - Lime
+  - Magnetic
+  - Fantastic
+  - Beautiful
+  - Cheerful
+  - Smiling
+  - Curious
+  - Inquisitive
+  - Open
+  - Insightful
+  - Inclusive
+  - Soft
+  - Honest
+  - Safe
+  onSetFromInput:
+    m_PersistentCalls:
+      m_Calls: []
+  setOnEnable: 1
+--- !u!114 &5100779869498987393
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7429473747049124782}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f8b671f535d8d44789c6aa80e432ab8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1001 &4402395190951214822
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3980578884321721362, guid: 4b33b7985c798ec44a8e12205d16d442,
+        type: 3}
+      propertyPath: m_Name
+      value: Network Manager Advanced Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 3980578884321721365, guid: 4b33b7985c798ec44a8e12205d16d442,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3980578884321721365, guid: 4b33b7985c798ec44a8e12205d16d442,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.8026929
+      objectReference: {fileID: 0}
+    - target: {fileID: 3980578884321721365, guid: 4b33b7985c798ec44a8e12205d16d442,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.9684765
+      objectReference: {fileID: 0}
+    - target: {fileID: 3980578884321721365, guid: 4b33b7985c798ec44a8e12205d16d442,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2.1323524
+      objectReference: {fileID: 0}
+    - target: {fileID: 3980578884321721365, guid: 4b33b7985c798ec44a8e12205d16d442,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3980578884321721365, guid: 4b33b7985c798ec44a8e12205d16d442,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3980578884321721365, guid: 4b33b7985c798ec44a8e12205d16d442,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3980578884321721365, guid: 4b33b7985c798ec44a8e12205d16d442,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3980578884321721365, guid: 4b33b7985c798ec44a8e12205d16d442,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3980578884321721365, guid: 4b33b7985c798ec44a8e12205d16d442,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3980578884321721365, guid: 4b33b7985c798ec44a8e12205d16d442,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 4b33b7985c798ec44a8e12205d16d442, type: 3}
+--- !u!4 &731175774406722291 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3980578884321721365, guid: 4b33b7985c798ec44a8e12205d16d442,
+    type: 3}
+  m_PrefabInstance: {fileID: 4402395190951214822}
+  m_PrefabAsset: {fileID: 0}
