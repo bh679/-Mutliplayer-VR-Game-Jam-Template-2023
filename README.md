@@ -8,6 +8,7 @@ https://discord.gg/bd8KrVhd8u
 [BNG VRIF 1.82](https://assetstore.unity.com/packages/templates/systems/vr-interaction-framework-161066) (paid - import yourself)   <br />
 
 ## Setup Guide <br />
+1 - Import VRIF
 After cloning the project and opening in Unity, you may be asked to 'enter safe mode'. Do this.
 You will need to import VRIF.
 Make sure you have purchased VRIF from the link above
@@ -20,6 +21,9 @@ Windows -> Package Manager -> Packages: My Assets -> Search: `VRIF` -> Download/
 
 Script Update Consent
  - Yes, for these and other files that might be found later. Although yes - for these files might be safer.
+2 - Get Private Keys
+Make sure you have the Photon Ap ID in the
+Setup Discord Webhooks. Either contact Brennan to download private Unity Package, or follow instructions in Assets/BrennanHatton/Discord/README.txt to create your own
 
 ## Pre-Installed <br />
 [PUN 2](https://assetstore.unity.com/packages/tools/network/pun-2-free-119922) (free)<br />
