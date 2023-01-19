@@ -20,7 +20,9 @@ Windows -> Package Manager -> Packages: My Assets -> Search: `VRIF` -> Download/
 *If importing dirtectly, unselect Project settings here. Do not "Import All"
 
 Script Update Consent
- - Yes, for these and other files that might be found later. Although yes - for these files might be safer.
+ - Yes, for these and other files that might be found later. 
+ - Although yes - for these files might be safer.
+
 2 - Get Private Keys
 Make sure you have the Photon Ap ID in the
 Setup Discord Webhooks. Either contact Brennan to download private Unity Package, or follow instructions in Assets/BrennanHatton/Discord/README.txt to create your own
