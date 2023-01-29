@@ -12,6 +12,7 @@
 /[Aa]ssets/Plugins/Editor/ScriptInspector*
 /[Aa]ssets/BNG Framework*
 /[Aa]ssets/Photon/PhotonUnityNetworking/Resources/PhotonServerSettings.asset
+/[Aa]ssets/BrennanHatton/Webhooks/*.txt
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta

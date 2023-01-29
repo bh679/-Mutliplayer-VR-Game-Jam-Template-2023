@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.brennanhatton.discord": {
+      "version": "https://github.com/bh679/Unity-Discord-Webhook-Tools.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "31d5529b707443f5184139ed5abf3097feb93921"
+    },
     "com.brennanhatton.unitytools": {
       "version": "https://github.com/bh679/Unity-Tools.git",
       "depth": 0,
@@ -17,7 +24,7 @@
       "dependencies": {
         "com.unity.inputsystem": "1.4.4"
       },
-      "hash": "ec3e6918a1f967925624a8a1a338c893f724e4db"
+      "hash": "a41edbb33c1da5f27363483cbb9141200d31fea0"
     },
     "com.unity.collab-proxy": {
       "version": "1.17.7",
