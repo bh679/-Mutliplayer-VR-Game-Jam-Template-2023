@@ -10,6 +10,15 @@
       },
       "hash": "e3a94899a29be8484b0f4c0b543ecd17e75d9c11"
     },
+    "com.brennanhatton.vrifpunassets": {
+      "version": "https://github.com/bh679/VRIF-PUN-Assets.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.inputsystem": "1.4.4"
+      },
+      "hash": "a92ccddcd337d321d7421ea2588a08a90ceebcf0"
+    },
     "com.unity.collab-proxy": {
       "version": "1.17.7",
       "depth": 0,
