@@ -5,7 +5,7 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "31d5529b707443f5184139ed5abf3097feb93921"
+      "hash": "0d28dab71988214ae247ceaba96e6558db3343fd"
     },
     "com.brennanhatton.unitytools": {
       "version": "https://github.com/bh679/Unity-Tools.git",
@@ -15,7 +15,7 @@
         "com.unity.textmeshpro": "3.0.6",
         "com.unity.inputsystem": "1.4.4"
       },
-      "hash": "e3a94899a29be8484b0f4c0b543ecd17e75d9c11"
+      "hash": "150ae63dd063b61a61cd013621396627c52efa0c"
     },
     "com.brennanhatton.vrifpunassets": {
       "version": "https://github.com/bh679/VRIF-PUN-Assets.git",
@@ -24,7 +24,7 @@
       "dependencies": {
         "com.unity.inputsystem": "1.4.4"
       },
-      "hash": "a41edbb33c1da5f27363483cbb9141200d31fea0"
+      "hash": "e36277b4b7165ea1e7574e39af7c6f27baade5bb"
     },
     "com.unity.collab-proxy": {
       "version": "1.17.7",
