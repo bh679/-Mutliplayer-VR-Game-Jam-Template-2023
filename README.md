@@ -34,3 +34,5 @@ Setup Discord Webhooks. Either contact Brennan to download private Unity Package
 [BrennanHatton VRIF PUN Assets](https://github.com/bh679/VRIF-PUN-Assets) <br />
 [Parallel Sync 1.5.1](https://github.com/VeriorPies/ParrelSync) 
 
+## License
+[Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
